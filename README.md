@@ -15,6 +15,7 @@ The necessity of this project is driven by the absence of an integrated system t
 * The increasing concentration of GHGs in the atmosphere can accelerate climate change and global warming.
 * It is very necessary to measure these emissions from our day-to-day activities.
 
+![image](https://github.com/user-attachments/assets/5464b96b-7be1-45c8-bce6-1f1d5452864e)
 
 
 
