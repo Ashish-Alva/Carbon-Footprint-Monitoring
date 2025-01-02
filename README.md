@@ -11,9 +11,9 @@ Effective energy management is hampered by the frequent lack of real-time monito
 The necessity of this project is driven by the absence of an integrated system that offers remote control, monitoring, and environmental effect assessment.
 
 # Methodology / Block Diagram
-## A carbon footprint is the total sum of greenhouse gas (GHG) emissions caused by an organization, event, product, or person.
-## The increasing concentration of GHGs in the atmosphere can accelerate climate change and global warming.
-## It is very necessary to measure these emissions from our day-to-day activities.
+* A carbon footprint is the total sum of greenhouse gas (GHG) emissions caused by an organization, event, product, or person.
+* The increasing concentration of GHGs in the atmosphere can accelerate climate change and global warming.
+* It is very necessary to measure these emissions from our day-to-day activities.
 
 
 
